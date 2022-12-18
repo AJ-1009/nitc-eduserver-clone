@@ -1,0 +1,33 @@
+.notifications{
+    width: 360px;
+    position: fixed;
+    top: 40px;
+    background-color: white;
+    border: 1px solid rgb(209,209,209);
+    right: 100px;
+}
+.notification-nav{
+    display: flex;
+    justify-content: space-between;
+    height: 40px;
+    padding: 0 10px;
+    align-items: center;
+    border-bottom: 1px solid rgb(209,209,209);
+}
+
+.notification-nav ul {
+    display: flex;
+    gap: 35px;
+    color:#1f9fa2 ;
+    list-style: none;
+}
+.noti {
+    margin-bottom: 400px;
+    text-align: center;
+}
+.see{
+    border-top: 1px solid rgb(209,209,209);
+    text-align: center;
+    color: #1f9fa2;
+    margin: 0;
+}

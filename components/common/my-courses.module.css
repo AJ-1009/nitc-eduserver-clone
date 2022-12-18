@@ -1,0 +1,14 @@
+.my-courses{
+    position: fixed;
+    top: 40px;
+    background-color: white;
+    border: 1px solid rgb(209,209,209);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    left: 100px;
+}
+.my-courses div{
+    cursor: pointer;
+}

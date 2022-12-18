@@ -1,0 +1,21 @@
+.my-id{
+    position: fixed;
+    top: 50px;
+    right: 20px;
+    background-color: white;
+    border: 1px solid rgb(209,209,209);
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+}
+.my-id div{
+    cursor: pointer;
+    padding: 10px 0 10px 30px;
+}
+.dashboard{
+    padding: 30px 0;
+    border-bottom: 1px solid rgb(209,209,209);
+}
+.signout{
+    border-top: 1px solid rgb(209,209,209);
+}
