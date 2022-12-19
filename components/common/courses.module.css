@@ -1,0 +1,32 @@
+.main-wrapper{
+    display: flex;
+    padding: 20px;
+    padding-top: 30px;
+    justify-content: space-between;
+}
+.heading{
+    font-size: 32px;
+    color: #373a3c;
+}
+.sub-heading {
+    cursor: pointer;
+    font-size: 28px;
+    color: #1f9fa2;
+    margin-top: 30px;
+}
+.course{
+    transition: .15s ease-in-out;
+    overflow: hidden;
+}
+.course div{
+    cursor: pointer;
+    font-size: 24px;
+    padding-left: 30px;
+    color: #1f9fa2;
+}
+.expand{
+    font-size: 16px;
+    color: #1f9fa2;
+    cursor: pointer;
+    margin-top: 0px;
+}
