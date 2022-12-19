@@ -80,7 +80,7 @@ function Text(){
                 If you are a student and your teacher has provided you a six digit Enrolment Code (different from the course code), you can enter it in the box above (not visible in the mobile app) to enrol to that course. Each course has a different key, and you will have to come back to this page (click Home from the left panel) to enrol to a another course. 
                 <br />
                 <br />
-                You can see all your courses from the link 'My Courses' at the top. Then the gear icon will show you the edit options for that course.
+                You can see all your courses from the link &apos;My Courses &lsquo; at the top. Then the gear icon will show you the edit options for that course.
                 <br />
                 <br />
                 You can visit dashboard and customise this page
